@@ -1,0 +1,15 @@
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/C#_Homework24.04/Task_15/bin/Debug/net6.0/Task_15
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/C#_Homework24.04/Task_15/bin/Debug/net6.0/Task_15.deps.json
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/C#_Homework24.04/Task_15/bin/Debug/net6.0/Task_15.runtimeconfig.json
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/C#_Homework24.04/Task_15/bin/Debug/net6.0/Task_15.dll
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/C#_Homework24.04/Task_15/bin/Debug/net6.0/Task_15.pdb
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/C#_Homework24.04/Task_15/obj/Debug/net6.0/Task_15.csproj.AssemblyReference.cache
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/C#_Homework24.04/Task_15/obj/Debug/net6.0/Task_15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/C#_Homework24.04/Task_15/obj/Debug/net6.0/Task_15.AssemblyInfoInputs.cache
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/C#_Homework24.04/Task_15/obj/Debug/net6.0/Task_15.AssemblyInfo.cs
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/C#_Homework24.04/Task_15/obj/Debug/net6.0/Task_15.csproj.CoreCompileInputs.cache
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/C#_Homework24.04/Task_15/obj/Debug/net6.0/Task_15.dll
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/C#_Homework24.04/Task_15/obj/Debug/net6.0/refint/Task_15.dll
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/C#_Homework24.04/Task_15/obj/Debug/net6.0/Task_15.pdb
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/C#_Homework24.04/Task_15/obj/Debug/net6.0/Task_15.genruntimeconfig.cache
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/C#_Homework24.04/Task_15/obj/Debug/net6.0/ref/Task_15.dll
