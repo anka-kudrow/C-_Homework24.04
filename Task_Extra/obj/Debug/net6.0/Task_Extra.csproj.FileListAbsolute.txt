@@ -1,0 +1,15 @@
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/C#_Homework24.04/Task_Extra/bin/Debug/net6.0/Task_Extra
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/C#_Homework24.04/Task_Extra/bin/Debug/net6.0/Task_Extra.deps.json
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/C#_Homework24.04/Task_Extra/bin/Debug/net6.0/Task_Extra.runtimeconfig.json
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/C#_Homework24.04/Task_Extra/bin/Debug/net6.0/Task_Extra.dll
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/C#_Homework24.04/Task_Extra/bin/Debug/net6.0/Task_Extra.pdb
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/C#_Homework24.04/Task_Extra/obj/Debug/net6.0/Task_Extra.csproj.AssemblyReference.cache
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/C#_Homework24.04/Task_Extra/obj/Debug/net6.0/Task_Extra.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/C#_Homework24.04/Task_Extra/obj/Debug/net6.0/Task_Extra.AssemblyInfoInputs.cache
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/C#_Homework24.04/Task_Extra/obj/Debug/net6.0/Task_Extra.AssemblyInfo.cs
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/C#_Homework24.04/Task_Extra/obj/Debug/net6.0/Task_Extra.csproj.CoreCompileInputs.cache
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/C#_Homework24.04/Task_Extra/obj/Debug/net6.0/Task_Extra.dll
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/C#_Homework24.04/Task_Extra/obj/Debug/net6.0/refint/Task_Extra.dll
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/C#_Homework24.04/Task_Extra/obj/Debug/net6.0/Task_Extra.pdb
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/C#_Homework24.04/Task_Extra/obj/Debug/net6.0/Task_Extra.genruntimeconfig.cache
+/Users/annakudravceva/Desktop/GEEKBRAINS/C#/Homeworks/C#_Homework24.04/Task_Extra/obj/Debug/net6.0/ref/Task_Extra.dll
